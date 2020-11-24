@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG18533
   title: དཀར་ཟས་རིང་ལུགས་ཀྱི་ཕན་ཡོན།
-  volume: ''
+  volume:
+    6295905a45e047bdb1e4fdc5f9964242:
+      image_group_id: I1KG18560
+      title: Volume 1 of dkar zas ring lugs kyi phan yon/
+      volume_number: 1
+      total_pages: 108
   author: ''
+ebook_metadata:
+  title: དཀར་ཟས་རིང་ལུགས་ཀྱི་ཕན་ཡོན།
+  author: ''
+  sku: P000470
+  cover: cover.jpg
+  layers:
+  - pagination
