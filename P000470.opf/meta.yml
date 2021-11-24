@@ -1,5 +1,7 @@
 id: P000470
 initial_creation_type: ocr
+created_at: 22/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1KG18533
   title: དཀར་ཟས་རིང་ལུགས་ཀྱི་ཕན་ཡོན།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 108
       base_file: v001.txt
-ebook_metadata:
-  title: དཀར་ཟས་རིང་ལུགས་ཀྱི་ཕན་ཡོན།
-  author: ''
-  sku: P000470
-  cover: cover.jpg
-  layers:
-  - pagination
